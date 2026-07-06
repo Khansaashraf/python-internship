@@ -11,9 +11,9 @@ A collection of four beginner-friendly Python tasks covering core programming co
 - [Task 1 — Hangman Game](#task-1--HangmanGame)
 - [Task 2 — Stock Portfolio Tracker](#task-2--StockTracker)
 - [Task 3 — Task Automation Scripts](#task-3--TaskAutomation)-
-  - - [Task 3a — Task Automation Scripts](#task-3a--Movefolders)
-  - - [Task 3b — Task Automation Scripts](#task-3b--exyractemail)
-  - - [Task 3c — Task Automation Scripts](#task-3c--webpageScraper)
+  - - [Task 3a — MoveFolders](#task-3a--Movefolders)
+  - - [Task 3b — ExtractEmail](#task-3b--exyractemail)
+  - - [Task 3c — WebpageScraper](#task-3c--webpageScraper)
 - [Task 4 — Basic Chatbot](#task-4--chatbot)
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
